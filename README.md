@@ -1,4 +1,4 @@
-# flutter-restaurent-app
+## flutter-restaurent-app
 UI design for a Restaurant app originally designed by Codex Coder
 
 ## Getting Started
